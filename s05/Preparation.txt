@@ -1,0 +1,7 @@
+File and Folder Preparation for s05 (Capstone):
+
+1. Create an s05 folder inside your individual folder (named Individual-firstname-lastname).
+2. Clone the B485-resources repository and copy the contents of the S05 folder.
+3. Paste the copied contents into the s05 folder within your individual folder.
+4. Open activty.sql in your text editor.
+5. Launch XAMPP and start the Apache and MySQL services.
